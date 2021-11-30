@@ -382,7 +382,7 @@
   #main-navigation-wrapper .navbar-collapse {
     border-color: #232333;
     border-radius: 0px;
-    background: #6e6ce6;
+    background: #c3c3c3;
     text-align: center;
   }
   .navbar-nav {
@@ -401,7 +401,7 @@
     display: block;
     width: 100%;
     padding: 16px 25px;
-    border-bottom: 1px solid #6e6ce6 !important;
+    border-bottom: 1px solid black !important;
     border-right: 0px;
     position: relative;
     font-size: 15px;
