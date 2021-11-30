@@ -755,7 +755,7 @@ a.header-requestbtn.header3-requestbtn:before {
 /*======header3 end=======*/
 /*======header4=======*/
 header.header4 {
-  background: #fff;
+  background: #c3c3c3;
   padding: 0px;
 }
 .hdr-top-bar {
@@ -805,7 +805,7 @@ header.header4 #main-navigation-wrapper .nav > li {
   padding: 36px 0px;
 }
 header.header4 #main-navigation-wrapper.navbar-default.sticky_header {
-  background: #fff;
+  background: #c3c3c3;
   box-shadow: 0px 0px 10px #ccc;
 }
 header.header4 #main-navigation-wrapper.navbar-default.sticky_header .nav > li {
@@ -4795,7 +4795,6 @@ a.header-contctbtn i {
   font-size: 18px;
 }
 .company_mission {
-  background: url(../images/crane.png) no-repeat;
   position: relative;
 }
 .home6 .serviceSection {
