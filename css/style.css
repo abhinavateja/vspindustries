@@ -308,7 +308,7 @@ ul.header-info li.phn:before {
 a.header-requestbtn {
   font-size: 14px;
   color: #fff;
-  background: #f2ae2b;
+  background: #6e6ce6;
   display: block;
   float: right;
   text-decoration: none;
@@ -799,7 +799,7 @@ header.header4 #main-navigation-wrapper .navbar-nav {
   float: right;
 }
 header.header4 #main-navigation-wrapper .nav > li > a {
-  color: #000;
+  color: #1f1c18;
 }
 header.header4 #main-navigation-wrapper .nav > li {
   padding: 36px 0px;
@@ -899,7 +899,7 @@ a.header-requestbtn.contactus-btn:hover {
 }
 .ftr-section h6 {
   font-size: 18px;
-  color: #b6b6b7;
+  color: #fff;
   text-transform: none;
   font-weight: 600;
   margin-bottom: 25px;
@@ -919,7 +919,7 @@ ul.footer-info li {
   float: left;
   width: auto;
   font-size: 18px;
-  color: #c8c8c8;
+  color: #fff;
   padding: 8px 40px 23px 35px;
   border-right: 1px solid #373737;
   margin-right: 49px;
@@ -4587,7 +4587,7 @@ a.header-contctbtn i {
 .home6 ul.footer-link li a,
 .home6 .ftr-section h6,
 .home6 .ftr-section p a {
-  color: #ccc;
+  color: #fff;
 }
 
 .home6 #minimal-bootstrap-carousel .carousel-inner .item {

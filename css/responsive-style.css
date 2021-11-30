@@ -382,7 +382,7 @@
   #main-navigation-wrapper .navbar-collapse {
     border-color: #232333;
     border-radius: 0px;
-    background: #f2ae2b;
+    background: #6e6ce6;
     text-align: center;
   }
   .navbar-nav {
@@ -401,7 +401,7 @@
     display: block;
     width: 100%;
     padding: 16px 25px;
-    border-bottom: 1px solid #f3c05f !important;
+    border-bottom: 1px solid #6e6ce6 !important;
     border-right: 0px;
     position: relative;
     font-size: 15px;
@@ -415,7 +415,7 @@
   #main-navigation-wrapper.navbar-default .navbar-nav > .open > a:hover,
   #main-navigation-wrapper.navbar-default .navbar-nav > li:hover > a,
   #main-navigation-wrapper.navbar-default .navbar-nav > li > a.active {
-    background: #000;
+    background: #fff;
     color: #fff;
   }
   #main-navigation-wrapper .nav > li.dropdown.dropdown-active > a {
@@ -562,7 +562,7 @@
     width: 90%;
     display: inline-block;
     float: none;
-    background: #fff;
+    background: #1f1c18;
   }
   .bestthing-img {
     padding-right: 0px;
